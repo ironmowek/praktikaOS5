@@ -1,0 +1,2 @@
+C:\Users\Александра\source\repos\практика 5 ОС\obj\Debug\практика 5 ОС.csproj.AssemblyReference.cache
+C:\Users\Александра\source\repos\практика 5 ОС\obj\Debug\практика 5 ОС.csproj.CoreCompileInputs.cache
